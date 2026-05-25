@@ -1,0 +1,13 @@
+# Serendipity Serendipity Sunset for delta
+[delta]
+  minus-color = "#d1918f"
+  minus-emph-color = "#d1918f"
+  plus-color = "#709bbd"
+  plus-emph-color = "#709bbd"
+  commit-decoration-style = "box ul"
+  commit-color = "#dee0ef"
+  file-style = "bold #a0b6e8"
+  hunk-header-decoration-style = "box #272938"
+  hunk-header-file-style = "bold #6b6d7c"
+  hunk-header-line-number-style = "#6b6d7c"
+  syntax-theme = "Serendipity Sunset"

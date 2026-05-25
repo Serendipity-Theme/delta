@@ -1,0 +1,13 @@
+# Serendipity Serendipity Morning for delta
+[delta]
+  minus-color = "#c25a4d"
+  minus-emph-color = "#c25a4d"
+  plus-color = "#2f7aab"
+  plus-emph-color = "#2f7aab"
+  commit-decoration-style = "box ul"
+  commit-color = "#3f4363"
+  file-style = "bold #6288d8"
+  hunk-header-decoration-style = "box #eaebee"
+  hunk-header-file-style = "bold #505575"
+  hunk-header-line-number-style = "#505575"
+  syntax-theme = "Serendipity Morning"
